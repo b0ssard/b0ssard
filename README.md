@@ -1,4 +1,14 @@
-### Hi there 👋
+# Victor Bossard Quinderé
+
+## Sobre Mim
+Web Dev | Front End | Desenvolvedor Front End.
+HTML | CSS | TypeScript | JavaScript | React | Bootstrap | Chakra-UI |Git | GitHub
+
+Sou desenvolvedor web, com foco em front end, capacitado para utilizar as tecnologias acima.
+
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/victorbossard/)
+
 
 <!--
 **b0ssard/b0ssard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
