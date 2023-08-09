@@ -1,10 +1,7 @@
 # Victor Bossard Quinderé
 
-## Sobre Mim
-Web Dev | Front End | Desenvolvedor Front End.
+## Web Dev | Front End | Desenvolvedor Front End.
 HTML | CSS | TypeScript | JavaScript | React | Bootstrap | Chakra-UI |Git | GitHub
-
-Sou desenvolvedor web, com foco em front end, capacitado para utilizar as tecnologias acima.
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/victorbossard/)
