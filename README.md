@@ -14,8 +14,13 @@ TypeScript | JavaScript | React.js | Next.js | Node.js | Express.js | HTML | CSS
 ### Contato | Contact
 - [LinkedIn](https://www.linkedin.com/in/victorbossard/)
 - Email: [victorquindere@gmail.com](mailto:victorquindere@gmail.com)
-- WhatsApp: [+55 (85) 98881-2838](https://wa.me/+5585988812838?text=Olá,Victor!)
+- WhatsApp: +55 (85) 98881-2838
 - Telefone | Phone: +55 (85) 98881-2838
+
+My Professional Experiences Qualify Me for Teamwork, Negotiation, Interdepartmental Communication, Problem-Solving Strategy, Meeting Deadlines, Working Under Pressure, and Understanding Customer Needs, Even in Areas of Expertise Outside of My Own.
+Legal Experience Since 2011
+
+I have extensive experience in contracts and litigation in the civil and consumer areas. I have worked in renowned national law firms and companies, leaders in their segments. I am a postgraduate in International Law, and I also have experience in the area of Digital Law, specifically in the General Law of Data Protection (LGPD), working on its implementation.
 
 <!--
 **b0ssard/b0ssard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
