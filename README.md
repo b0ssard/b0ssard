@@ -2,7 +2,7 @@
 
 ## Web Dev | Front End | Desenvolvedor Front End
 
-### Sobre Mim
+### Sobre Mim | About Me
 Desenvolvedor Front End apaixonado por criar interfaces web elegantes e funcionais. Tenho experiência com uma variedade de tecnologias modernas e sou dedicado a melhorar continuamente minhas habilidades e conhecimentos.
 
 *Front End Developer passionate about creating elegant and functional web interfaces. I have experience with a variety of modern technologies and am dedicated to continuously improving my skills and knowledge.*
