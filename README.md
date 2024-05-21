@@ -14,7 +14,7 @@ TypeScript | JavaScript | React.js | Next.js | Node.js | Express.js | HTML | CSS
 ### Contato | Contact
 - [LinkedIn](https://www.linkedin.com/in/victorbossard/)
 - Email: [victorquindere@gmail.com](mailto:victorquindere@gmail.com)
-- WhatsApp: [+55 (85) 98881-2838](https://wa.me/+5585988812838?text=Olá,Victor:)!)
+- WhatsApp: [+55 (85) 98881-2838](https://wa.me/+5585988812838?text=Olá,Victor!)
 - Telefone | Phone: +55 (85) 98881-2838
 
 <!--
