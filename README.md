@@ -1,10 +1,30 @@
 # Victor Bossard Quinderé
 
-## Web Dev | Front End | Desenvolvedor Front End.
-HTML | CSS | TypeScript | JavaScript | React | Bootstrap | Chakra-UI |Git | GitHub
+## Web Dev | Front End | Desenvolvedor Front End
 
-## Contato
+### Sobre Mim
+Desenvolvedor Front End apaixonado por criar interfaces web elegantes e funcionais. Tenho experiência com uma variedade de tecnologias modernas e sou dedicado a melhorar continuamente minhas habilidades e conhecimentos.
+
+Front End Developer passionate about creating elegant and functional web interfaces. I have experience with a variety of modern technologies and am dedicated to continuously improving my skills and knowledge.
+
+### Tecnologias | Technologies
+- TypeScript
+- JavaScript
+- React.js
+- Next.js
+- HTML
+- CSS
+- Bootstrap
+- Chakra UI
+- Git
+- GitHub
+
+### Contato | Contact
 - [LinkedIn](https://www.linkedin.com/in/victorbossard/)
+- Email: [victorquindere@gmail.com](mailto:victorquindere@gmail.com)
+- WhatsApp: +55 (85) 98881-2838
+- Telefone | Phone: +55 (85) 98881-2838
+
 
 
 <!--
