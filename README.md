@@ -11,7 +11,7 @@ Desenvolvedor Front End apaixonado por criar interfaces web elegantes e funciona
 > **TypeScript | JavaScript | React.js | Next.js | Node.js | Express.js | HTML | CSS | EJS | Bootstrap | Chakra UI | Tailwind | Sass | Git | GitHub**
 
 
-### Contato | Contact
+### Contato | *Contacts*
 - [LinkedIn](https://www.linkedin.com/in/victorbossard/)
 - Email: [victorquindere@gmail.com](mailto:victorquindere@gmail.com)
 - Telefone | Phone | WhatsApp: +55 (85) 98881-2838
