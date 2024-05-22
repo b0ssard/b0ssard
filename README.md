@@ -8,7 +8,7 @@ Desenvolvedor Front End apaixonado por criar interfaces web elegantes e funciona
 *Front End Developer passionate about creating elegant and functional web interfaces. I have experience with a variety of modern technologies and am dedicated to continuously improving my skills and knowledge.*
 
 	---
->TypeScript | JavaScript | React.js | Next.js | Node.js | Express.js | HTML | CSS | EJS | Bootstrap | Chakra UI | Tailwind | Sass | Git | GitHub
+TypeScript | JavaScript | React.js | Next.js | Node.js | Express.js | HTML | CSS | EJS | Bootstrap | Chakra UI | Tailwind | Sass | Git | GitHub
 	---
 
 ### Contato | Contact
